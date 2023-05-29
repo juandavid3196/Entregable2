@@ -1,4 +1,4 @@
-# Entregable2
+# Entregable 2
 
 Pasos para ejecutar los scripts:
 
